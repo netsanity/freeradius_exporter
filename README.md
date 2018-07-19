@@ -1,2 +1,2 @@
 # freeradius_exporter
-Prometheus exporter for the FreeRADIUS status server
+Netsanity Prometheus exporter for the FreeRADIUS status server
